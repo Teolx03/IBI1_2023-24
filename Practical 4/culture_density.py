@@ -1,5 +1,5 @@
-a = 5 # 5% density
-day = 1  # density in day 1 
+a = 5 # start from 5% density
+day = 1  # in day 1 
 print ("Day", str(day), ":",str(a)) 
 while a <=90:   #stop while the plate cell excess 90 %
     day = day+1  #add a day once the code loop (next day)
