@@ -25,4 +25,3 @@ print (X, Y, W)
 # False | True  | True 
 # True  | True  | False 
 # False | False | False 
-

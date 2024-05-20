@@ -22,4 +22,3 @@ while progress < 100: # the loop will run until progress variable = 99 (code run
 print(total_random_number)  # sum of 100 random numbers between 1 and 10
 
 #The output will be different everytime because n is a random number
-
