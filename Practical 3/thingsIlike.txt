@@ -1,3 +1,4 @@
+i like 
 i like food
 i like sleep
 i dont like cucumber 
@@ -5,4 +6,4 @@ i very like play games
 i like to play volley ball
 i like eat vegetable 
 i like to eat meat 
-i like to write code. 
+i like to write code 
