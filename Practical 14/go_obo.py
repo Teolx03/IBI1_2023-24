@@ -100,8 +100,8 @@ SAX_APIs_end_time = datetime.now()
 SAX_APIs_used_time = SAX_APIs_end_time - SAX_APIs_start_time
 print ("SAX APIs used time: " + str(SAX_APIs_used_time))
 
-# Plot a graph for the data 
-# Import nessaccary tools 
+# plot a graph for the data 
+# import nessaccary tools 
 import numpy as np 
 import matplotlib.pyplot as plt 
 
