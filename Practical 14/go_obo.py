@@ -105,13 +105,28 @@ print ("SAX APIs used time: " + str(SAX_APIs_used_time))
 import numpy as np 
 import matplotlib.pyplot as plt 
 
+# plot graph for DOM APIs
 GO_terms = ["Molecular Function", "Biological Process", "Cellular Component"]
-Go_terms_score = [12154, 30794, 4392]
+Go_terms_score = [molecular_function_count, biological_process_count, cellular_component_count]
 width = 0.5
-
-plt.figure()
+plt.subplot(2,1,1)
 plt.bar (GO_terms, Go_terms_score, width)
 plt.ylabel ("Number of GO terms")
-plt.title ("Frequency of GO terms in three ontologies")
+plt.title ("Frequency of GO terms in three ontologies(DOM)")
+
+
+# plot graph for SAX APIS 
+
+GO_terms = ["Molecular Function", "Biological Process", "Cellular Component"]
+Go_terms_score = [Handler.molecular_fucntion_count, Handler.biological_process_count, Handler.cellular_component_count]
+width = 0.5
+plt.subplot(2,1,2)
+plt.bar (GO_terms, Go_terms_score, width)
+plt.ylabel ("Number of GO terms")
+plt.title ("Frequency of GO terms in three ontologies(SAX)")
+
+
+# let 2 different graph locate in one figure 
+plt.tight_layout()
 plt.show()
 plt.clf()
