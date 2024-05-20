@@ -115,7 +115,7 @@ plt.ylabel ("Number of GO terms")
 plt.title ("Frequency of GO terms in three ontologies(DOM)")
 
 
-# plot graph for SAX APIS 
+# plot graph for SAX APIs 
 
 GO_terms = ["Molecular Function", "Biological Process", "Cellular Component"]
 Go_terms_score = [Handler.molecular_fucntion_count, Handler.biological_process_count, Handler.cellular_component_count]
