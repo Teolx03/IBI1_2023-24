@@ -1,3 +1,7 @@
+# The athlete are training in different method to improve time taken to complete 5km run
+# Time taken for the athlete store in different variable 
+# Calculate which method is more effective 
+
 a = 40 
 b = 36 
 c = 30 
@@ -8,11 +12,17 @@ if d < e:
 else:
     print ("d is greater and have greater improvement on running time")
 
-# and 
-# F F F (T) not F = T
-# F T F (T) not F = T
-# T T T (F) not T = F 
-X = a < b 
-Y = b > c 
-W = not (X and Y) 
+# create Boolean variable 
+X = a > b   # True
+Y = b < c   # False 
+W = (X or Y) and not (X and Y)
 print (X, Y, W) 
+
+# Truth table for W 
+# X     | Y     | W     
+# ---------------------
+# True  | False | True 
+# False | True  | True 
+# True  | True  | False 
+# False | False | False 
+
