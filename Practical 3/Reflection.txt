@@ -1,0 +1,2 @@
+The IBI course is a little bit difficult to me, we learn version control, Unix-like systems and how to write simple programs in Python.
+I will spent more time on this course for better understanding of the lectures. 
