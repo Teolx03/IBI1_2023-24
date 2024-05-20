@@ -1,0 +1,15 @@
+Comparison between human and mouse:
+(1) Percentage of identical amino acids is 92.54%
+(2) Aligmnet score using BLOSUM62 matrix is 3137
+
+Comparison between human and rat:
+(1) Percentage of identical amino acids is 91.75%
+(2) Aligmnet score using BLOSUM62 matrix is 3107
+
+Comparison between mouse and rat:
+(1) Percentage of identical amino acids is 96.83%
+(2) Aligmnet score using BLOSUM62 matrix is 3261
+
+
+In conclusion, rat and mouse's amino acid sequence are most closely related as their percentage identical and alignment score are the highest among three pairwise combinations. 
+Mouse is a better model organism for human as the percentage identical and alignment score between human and mouse are higher than between human and rat
