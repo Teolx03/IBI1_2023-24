@@ -1,3 +1,6 @@
+# find out each person's favourite James Bond actor by using the theory 
+# Theory: each person's favourite James Bond is the person who played the character when they turn 18 
+
 # define a fucntion to find out an individual's favourite James Bond 
 def favourite_character (born_year):
    # a dictionary about the actors portrayed James Bond in different years

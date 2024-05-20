@@ -1,0 +1,3 @@
+This SIR practical are both challenging and rewarding, i learn how to build up a SIR model with and without vaccination.
+I also learn how to make a 2D SIR model with the spread of a disease in a given geographical area 
+However, this practical challenged me to think critical and apply computational method effectively 
