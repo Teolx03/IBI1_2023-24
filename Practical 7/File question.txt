@@ -1,0 +1,7 @@
+Question :
+How has the DALYs changed in the UK over time? Note the “Entity” for the UK is "United Kingdom" and the “Code” is GBR (Great Britain).
+Answer : line 62-76
+Explanation :
+Firstly extract all the data for UK from the csv file 
+Initialise all the essential variables
+Plot a graph for DALYS changed in UK over time 
