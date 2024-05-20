@@ -1,6 +1,6 @@
 # initialise the variable 
 
-a = 5 # start from 5% density
+a = 5  # start from 5% density
 day = 0  
 print ("Day", str(day), ":",str(a)) 
 while a <=90:   # stop while the plate cell excess 90 %

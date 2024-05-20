@@ -54,7 +54,7 @@ class NamespaceHandler (xml.sax.ContentHandler):
  # Initialize the list, variable and boolean   
     def __init__(self):  
         self.namespace = ""
-        self.in_term = False    # Track if enter <term> element 
+        self.in_term = False   # Track if enter <term> element 
         self.in_namespace = False   # Track if enter <namespace> element 
         self.molecular_fucntion_count = 0
         self.biological_process_count = 0 
