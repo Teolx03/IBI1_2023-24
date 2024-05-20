@@ -20,7 +20,7 @@ print (X, Y, W)
 
 # Truth table for W 
 # X     | Y     | W     
-# ---------------------
+# -----------------------
 # True  | False | True 
 # False | True  | True 
 # True  | True  | False 

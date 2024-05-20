@@ -8,7 +8,3 @@ while a <=90:   #stop while the plate cell excess 90 %
     a = a*2      #cell double every 24 hr 
     print ("Day", str(day), ":", str(a))
 print ("On day 5 the cell density goes over 90% , maiximum 5 days holiday from the lab.")
-
-# day 6 : 160 as output because when a=80, it still can enter the loop and give an a=160 output.
-# Then a=160 cant enter the loop 
-   
