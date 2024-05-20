@@ -1,5 +1,5 @@
 Hello. 
 My name is Teo Li Xian.
 I like drinking tea and eating chocolate milk biscuits.
-I am enjoying learning IBI1 course 
-I am happy that I can push my repo from Visual Studio Code to GitHub 
+I am enjoying learning IBI1 course.
+I am happy that I can push my repo from Visual Studio Code to GitHub.
